@@ -1,6 +1,6 @@
 ### Привет, я fqwfdcv! 👋  
 
-🚀 **Разрабатываю ботов и плагины**  
+🚀 **Разрабатываю ботов, и делаю что хочу^^**  
 🎮 Люблю игры и программирование  
 🔧 Использую: `Python`, `JavaScript`, `HTML5`, `CSS5`  
 
@@ -18,4 +18,4 @@
 ---
 
 ### 🎨 Украшения  
-![Snake animation](https://github.com/fqwfdcv/fqwfdcv/blob/output/github-contribution-grid-snake.svg)  
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
