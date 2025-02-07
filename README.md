@@ -18,4 +18,4 @@
 ---
 
 ### 🎨 Украшения  
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=fqwfdcv&theme=onestar&no-frame=true&no-bg=true&margin-w=15)
