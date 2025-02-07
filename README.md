@@ -18,4 +18,4 @@
 ---
 
 ### 🎨 Украшения  
-![Skyline](https://github.com/fqwfdcv/fqwfdcv/blob/main/skyline.gif)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=F70000&center=true&vCenter=true&random=false&width=435&height=50&lines=Hello+World!+🌍;Welcome+to+my+GitHub!+🚀" />
