@@ -18,4 +18,4 @@
 ---
 
 ### 🎨 Украшения  
-![fqwfdcv's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fqwfdcv&theme=react-dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fqwfdcv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
