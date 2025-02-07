@@ -18,4 +18,4 @@
 ---
 
 ### 🎨 Украшения  
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=fqwfdcv&theme=onestar&no-frame=true&no-bg=true&margin-w=15)
+![fqwfdcv's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fqwfdcv&theme=react-dark)
