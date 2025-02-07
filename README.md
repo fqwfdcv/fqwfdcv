@@ -18,4 +18,4 @@
 ---
 
 ### 🎨 Украшения  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fqwfdcv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Neon Wave](https://capsule-render.vercel.app/api?type=wave&color=0:00c6ff,100:0072ff&height=150&section=header)
