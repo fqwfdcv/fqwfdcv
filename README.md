@@ -18,4 +18,4 @@
 ---
 
 ### 🎨 Украшения  
-![Neon Wave](https://capsule-render.vercel.app/api?type=wave&color=0:00c6ff,100:0072ff&height=150&section=header)
+![Skyline](https://github.com/fqwfdcv/fqwfdcv/blob/main/skyline.gif)
