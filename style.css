@@ -136,3 +136,29 @@ body, html {
     top: 30%;
   }
 }
+
+@media (max-width: 768px) {
+  .links a {
+    display: block;
+    margin: 10px auto;
+    font-size: 1.2em;
+    padding: 12px 18px;
+    color: #00ccff;
+    background-color: rgba(0, 255, 255, 0.1);
+    border: 1px solid #00ccff;
+    text-align: center;
+    border-radius: 8px;
+    box-shadow: none;
+    transition: background-color 0.3s ease;
+  }
+
+  .links a:hover {
+    background-color: rgba(0, 255, 255, 0.2);
+    color: #ffffff;
+  }
+
+  .links a::before {
+    display: none;
+  }
+}
+
